@@ -33,6 +33,7 @@ The MindFuL Mentor feature offers guidance and support from an AI-based therapis
 - Appwrite: Backend-as-a-Service platform for authentication and database management
 
 ## what next
+
 -implement guided meditations and sleep schedules
 -improve design
 -implement cbt techniques
