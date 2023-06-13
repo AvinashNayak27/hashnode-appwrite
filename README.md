@@ -34,16 +34,16 @@ The MindFuL Mentor feature offers guidance and support from an AI-based therapis
 
 ## what next
 
--implement guided meditations and sleep schedules
--improve design
--implement cbt techniques
-
-### note to use MindFuL Mentor in development bring your own openai api keys
+- implement guided meditations and sleep schedules
+- improve design
+- implement cbt techniques
 
 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+To use MindFuL Mentor in development bring your own openai api keys
 
 
 
